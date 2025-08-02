@@ -5,9 +5,7 @@ Welcome to **UIverse**, a tech-themed, futuristic front-end template crafted spe
 ---
 
 ## 🚀 Live Demo
-
-> 🔗 Coming Soon  
-*(Add your deployed GitHub Pages / Vercel / Netlify link here)*
+(https://uiverse-io-example.onrender.com)
 
 ---
 
@@ -32,6 +30,24 @@ Welcome to **UIverse**, a tech-themed, futuristic front-end template crafted spe
 - **JavaScript / jQuery**
 - **Google Fonts: Orbitron, Inter**
 
----
+## 🤝 Contributors
 
-## 🗂 Project Structure
+Thanks to the following people who helped build this project:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/aryandhandhukiya">
+        <img src="https://avatars.githubusercontent.com/aryandhandhukiya" width="80px;" alt=""/><br />
+        <sub><b>ARYAN</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KartavyaD">
+        <img src="https://avatars.githubusercontent.com/KartavyaD" width="80px;" alt=""/><br />
+        <sub><b>KARTAVYA</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
